@@ -33,6 +33,13 @@
   }
 }
 
+
+@media (max-width: 1366px) {
+  html {
+    font-size: 72%;
+  }
+}
+
 body {
   background-color: var(--gray-50);
 }
