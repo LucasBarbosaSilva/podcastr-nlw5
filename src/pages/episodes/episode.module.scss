@@ -1,3 +1,8 @@
+.content {
+  height: calc(100vh - 6.5rem);
+  overflow-y: auto;
+}
+
 .episode {
   max-width: 60%;
   padding: 3rem 2rem;
