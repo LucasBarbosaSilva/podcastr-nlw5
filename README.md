@@ -69,7 +69,9 @@ Veja o exemplo com áudio: [Podcastr](https://user-images.githubusercontent.com/
 ```
 
 ## Mais Informações
-
+### Acesse o documento com o reumo dos principais conteúdos para fazer esta aplicação:
+[Diário de Bordo - NLW #5](https://docs.google.com/document/d/1UEhHrfjkGhHWDau7-a9teNyGEqV6V4zdYCVcEIEfbu0/edit?usp=sharing)
+### Ainda continua com dúvida? Entre em contato comigo:
 Lucas Barbosa Leite Silva – [@Lucas Barbosa](https://www.linkedin.com/in/lucas-barbosa-4076ab1a6/) – blucas.oficial@gmail.com
 
 [https://github.com/LucasBarbosaSilva](https://github.com/LucasBarbosaSilva/)
